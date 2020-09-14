@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Jenkins Mani!!!!</h2>
+<h2>Welcome to Jenkins MANI!!!!</h2>
 </body>
 </html>
